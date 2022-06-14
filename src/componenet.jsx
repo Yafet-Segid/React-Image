@@ -27,7 +27,7 @@ const MyComponent = () => {
     setImageDis(number)
 
   })
-
+//
 
 
   useEffect(() => {
